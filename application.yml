@@ -17,4 +17,5 @@ microservice:
       endpoint:
         uri: http://FIRST-SERVICE/employee      
 
-message=Hello, World!
+message:
+  info: Hello, World!
