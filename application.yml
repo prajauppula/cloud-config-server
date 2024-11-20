@@ -18,4 +18,5 @@ microservice:
         uri: http://FIRST-SERVICE/employee      
 
 message:
-  info: Hello, World! This Config Server Testing.....
+  info: Hello, World! This Config Server Testing.....with Microservices......
+  data: This is testing of the centralized config server
