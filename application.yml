@@ -22,14 +22,10 @@ spring:
 
     
 microservice:
-  second-service:
+  payment-service:
     endpoints:
       endpoint:
-        uri: http://SECOND-SERVICE/consumer/details
-  first-service:
-    endpoints:
-      endpoint:
-        uri: http://FIRST-SERVICE/employee      
+        uri: http://PAYMENT-SERVICE/payment/info
 
 message:
   info: Hello, World! This Config Server Testing.....with Microservices......
