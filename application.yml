@@ -18,4 +18,4 @@ microservice:
         uri: http://FIRST-SERVICE/employee      
 
 message:
-  info: Hello, World!
+  info: Hello, World! This Config Server Testing.....
